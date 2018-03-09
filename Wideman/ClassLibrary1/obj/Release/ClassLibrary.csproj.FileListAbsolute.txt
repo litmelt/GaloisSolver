@@ -1,0 +1,5 @@
+C:\Users\DX\Desktop\Курсовая работа\ConsoleApplication1\ClassLibrary1\bin\Release\ClassLibrary1.dll
+C:\Users\DX\Desktop\Курсовая работа\ConsoleApplication1\ClassLibrary1\bin\Release\ClassLibrary1.pdb
+C:\Users\DX\Desktop\Курсовая работа\ConsoleApplication1\ClassLibrary1\obj\Release\ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\DX\Desktop\Курсовая работа\ConsoleApplication1\ClassLibrary1\obj\Release\ClassLibrary1.dll
+C:\Users\DX\Desktop\Курсовая работа\ConsoleApplication1\ClassLibrary1\obj\Release\ClassLibrary1.pdb

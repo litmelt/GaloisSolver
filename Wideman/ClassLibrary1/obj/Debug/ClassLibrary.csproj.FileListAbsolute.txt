@@ -1,0 +1,13 @@
+C:\Users\DX\Desktop\Курсовая работа\ConsoleApplication1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\DX\Desktop\Курсовая работа\ConsoleApplication1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\DX\Desktop\Курсовая работа\ConsoleApplication1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\DX\Desktop\Курсовая работа\ConsoleApplication1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\DX\Desktop\Курсовая работа\ConsoleApplication1\ClassLibrary1\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\DX\Dropbox\Курсовая\ConsoleApplication1\ClassLibrary1\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\DX\Dropbox\Курсовая\ConsoleApplication1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\DX\Dropbox\Курсовая\ConsoleApplication1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\DX\Dropbox\Курсовая\Wideman\ClassLibrary1\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\DX\Dropbox\Курсовая\Wideman\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\DX\Dropbox\Курсовая\Wideman\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\DX\Dropbox\Курсовая\Wideman\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\DX\Dropbox\Курсовая\Wideman\ClassLibrary1\bin\Debug\ClassLibrary1.pdb

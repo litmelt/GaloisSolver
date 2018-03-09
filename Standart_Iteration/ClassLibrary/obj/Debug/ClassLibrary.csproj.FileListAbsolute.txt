@@ -1,0 +1,10 @@
+D:\Курсовая\Standart_Iteration\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+D:\Курсовая\Standart_Iteration\ClassLibrary\bin\Debug\ClassLibrary.dll
+D:\Курсовая\Standart_Iteration\ClassLibrary\bin\Debug\ClassLibrary.pdb
+D:\Курсовая\Standart_Iteration\ClassLibrary\obj\Debug\ClassLibrary.dll
+D:\Курсовая\Standart_Iteration\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\DX\Dropbox\Курсовая\Standart_Iteration\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\DX\Dropbox\Курсовая\Standart_Iteration\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\DX\Dropbox\Курсовая\Standart_Iteration\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\DX\Dropbox\Курсовая\Standart_Iteration\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\DX\Dropbox\Курсовая\Standart_Iteration\ClassLibrary\obj\Debug\ClassLibrary.pdb
